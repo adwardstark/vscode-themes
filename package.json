@@ -1,0 +1,41 @@
+{
+  "name": "catacino",
+  "displayName": "Catacino Themes",
+  "description": "VS-Code Themes by Aditya, more themes coming soon!",
+  "version": "1.0.0",
+  "publisher": "adwardstark",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adwardstark/vscode-themes"
+  },
+  "bugs": {
+    "type": "git",
+    "url": "https://github.com/adwardstark/vscode-themes"
+  },
+  "homepage": "https://marketplace.visualstudio.com/items?itemName=adwardstark.catacino",
+  "icon": "logo.png",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "adwardstark",
+    "aspire",
+    "aditya",
+    "catacino",
+    "catacino theme",
+    "cats",
+    "meow"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aspire Core",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aspire-core-theme.json"
+      }
+    ]
+  }
+}
