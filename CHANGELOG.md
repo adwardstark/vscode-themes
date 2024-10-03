@@ -1,9 +1,13 @@
 # Change Log
 
-All notable changes to the "vscode-themes" extension will be documented in this file.
+All notable changes to the "catacino" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [v1.0.1]
 
-## [Unreleased]
+- Minor fixes
+ - Themes added ( `Aspire Dark, Aspire Light` )
+
+## [v1.0.0]
 
 - Initial release
+ - Themes added ( `Aspire Core` )
