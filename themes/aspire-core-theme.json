@@ -1845,7 +1845,7 @@
     }
   ],
   "colors": {
-    "foreground": "#00c560",
+    "foreground": "#ffffff",
     "focusBorder": "#244a6b00",
     "selection.background": "#00bc9f33",
     "scrollbar.shadow": "#3b3b3b",
@@ -2092,7 +2092,7 @@
     "editorGroup.emptyBackground": "#0c365a",
     "panelSection.border": "#80808059",
     "statusBarItem.activeBackground": "#FFFFFF25",
-    "settings.headerForeground": "#00c560",
+    "settings.headerForeground": "#ffffff",
     "settings.focusedRowBackground": "#ffffff07",
     "walkThrough.embeddedEditorBackground": "#00000050",
     "breadcrumb.activeSelectionForeground": "#e0e0e0",
